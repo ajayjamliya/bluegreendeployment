@@ -8,5 +8,5 @@ patches:
     patch: |-
       - op: replace
         path: /spec/template/spec/containers/0/image
-        value: dockerforbegin/iciciproject:v1
+        value: dockerforbegin/iciciproject:v3
 
